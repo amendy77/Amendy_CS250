@@ -1,7 +1,7 @@
-# CS-250 FINAL PROJECT
+# CS250
 WK7_CS-250-Software Development Lifecycle (SNHU)
-- Final Project Paper
-- Agile Presentation
+- SNHU Portfolio
+- SNHU Portfolio
 
 
 
